@@ -1,0 +1,17 @@
+[project]
+name = "dw-activity-01-oltp-modeling"
+version = "0.1.0"
+description = "Actividad 01: Modelado de datos OLTP para Parasol Corp"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.0.0",
+    "pandas>=2.0.0",
+    "jupyterlab>=4.1.0",
+    "ipykernel>=7.4.0",
+    "pytest>=9.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]

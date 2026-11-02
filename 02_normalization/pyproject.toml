@@ -1,0 +1,8 @@
+[project]
+name = "dw-activity-02-normalization"
+version = "0.1.0"
+description = "Actividad 02: Normalización (1NF, 2NF, 3NF)"
+requires-python = ">=3.12"
+dependencies = ["duckdb>=1.0.0", "pandas>=2.0.0", "jupyterlab>=4.1.0"]
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]

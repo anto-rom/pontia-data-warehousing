@@ -1,0 +1,33 @@
+# Entornos virtuales
+.venv/
+**/.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Bases de datos locales
+*.duckdb
+*.duckdb.wal
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Materiales originales
+dw_activities-*.zip
+dw_miniproyecto-*.zip
+Guia-del-alumno-*.pdf

@@ -1,0 +1,11 @@
+experiment_id,researcher_name,lab_name,sample_type,cost_eur,experiment_date,status
+1,Rebecca Chambers,Arklay,Blood,15000.00,2026-01-15,Completed
+2,Marcus Aiken,Tanuki,Tissue,22000.00,2026-01-20,Completed
+3,Ada Wong,Spencer,Saliva,18500.00,2026-02-01,Failed
+4,Leon Kennedy,Arklay,Blood,9500.00,2026-02-10,Completed
+5,Claire Redfield,Tanuki,DNA,31000.00,2026-02-15,In Progress
+6,Rebecca Chambers,Arklay,Tissue,12000.00,2026-03-01,Completed
+7,Marcus Aiken,Tanuki,Blood,25000.00,2026-03-05,Completed
+8,Ada Wong,Spencer,DNA,19000.00,2026-03-10,Completed
+9,Leon Kennedy,Arklay,Saliva,8500.00,2026-03-15,Failed
+10,Claire Redfield,Tanuki,Tissue,28000.00,2026-03-20,In Progress

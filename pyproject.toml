@@ -1,0 +1,15 @@
+[tool.pytest.ini_options]
+testpaths = [
+    "01_oltp_modeling/tests",
+    "02_normalization/tests",
+    "03_data_marts/tests",
+    "04_star_schema/tests",
+    "05_consultas_analiticas/tests",
+    "06_scd/tests",
+]
+addopts = "-v --tb=short"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.3",
+]
